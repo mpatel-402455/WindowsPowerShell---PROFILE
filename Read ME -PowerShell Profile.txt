@@ -1,0 +1,3 @@
+copy "Microsoft.PowerShell_profile.ps1" to 
+C:\Windows\system32\WindowsPowerShell\v1.0
+
