@@ -1,4 +1,4 @@
-﻿# Profiel for Manish Patel
+﻿# Profiel for FirstName LastName
 Write-Host "Profile Path: `n$PSHOME" -ForegroundColor Green
     #C:\Windows\system32\WindowsPowerShell\v1.0
 function prompt 
